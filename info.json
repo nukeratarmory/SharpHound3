@@ -1,0 +1,19 @@
+{
+    "name": "SharpHound3",
+    "version": "0.0.1",
+    "uuid": "173092f7-73bc-4ce6-a233-62f66c3d838f",
+    "command": "sharphound3",
+    "type": ".net",
+    "repository": "https://github.com/nukeratarmory/SharpHound3",
+    "metadata": {
+        "author": {
+            "name": "BloodHoundAD",
+            "original_repository": "https://github.com/BloodHoundAD/SharpHound3"
+        },
+        "platform": [
+            "windows"
+        ],
+        "architecture": "any",
+        "net_version": "4.5"
+    }
+}
