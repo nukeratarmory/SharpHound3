@@ -6,10 +6,12 @@
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharpHound3",
     "metadata": {
-        "author": {
-            "name": "BloodHoundAD",
-            "original_repository": "https://github.com/BloodHoundAD/SharpHound3"
-        },
+        "author": [
+            {
+                "name": "BloodHoundAD",
+                "original_repository": "https://github.com/BloodHoundAD/SharpHound3"
+            }
+        ],
         "platform": [
             "windows"
         ],
